@@ -16,7 +16,7 @@ public class SnakeAndLadder {
           */
 
         int start=0;
-        System.out.println("Welcome to Snake And Ladder game");
+        System.out.println("Welcome to the Snake And Ladder game");
         System.out.println("\nStarting the game with Point= " + start);
     }
 }

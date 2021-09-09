@@ -5,10 +5,6 @@ public class SnakeAndLadder {
     public static void main(String[] args) {
         /**
          * The following implements snake and ladder game
-         *
-         * @author Deepak
-         * @version 1.0
-         * @since 13/08/2021
          */
 
           /**

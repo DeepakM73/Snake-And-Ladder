@@ -12,10 +12,6 @@ public class SnakeAndLadder {
 
         /**
          * The following implements snake and ladder game
-         *
-         * @author Deepak
-         * @version 1.0
-         * @since 13/08/2021
          */
 
           /**
